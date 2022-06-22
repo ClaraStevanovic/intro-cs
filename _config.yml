@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Intro to Computer Science
 
 # Your name to show in the footer
-author: Some Person
+author: Clara Stevanovic
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://clarastevanovic.github.io/intro-cs/"
 
 # --- Logo --- #
 
@@ -103,15 +103,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#b5baa4"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#e7ebe4"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#8f8f3b"
+hover-col: "#677849"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#6f7567"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
