@@ -339,8 +339,8 @@ void resetGame() {
 
 void playerHitCircle() {
   stroke(204, 132, 0);
-  strokeWeight(2);
-  fill(255); 
+  strokeWeight(4);
+  fill(255);
   rect(playerX, playerY, playerWidth, playerHeight, 100);
 }
 
